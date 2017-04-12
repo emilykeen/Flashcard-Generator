@@ -1,0 +1,2 @@
+
+Text: George Washington was the first president of the United States. Cloze: George Washington partial: .... was the first president of the United States.
